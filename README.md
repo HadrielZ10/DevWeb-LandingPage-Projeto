@@ -9,6 +9,9 @@
 
 ---
 
+[🔗 Acesse o site no GitHub Pages](https://hadrielz10.github.io/DevWeb-LandingPage-Projeto/)
+---
+
 ## 🎯 Objetivo
 Criar uma **landing page** para apresentar a servidora **Geni Estácio**, aplicando os conceitos de **HTML** e **CSS**, e utilizando o **Canva** para o design visual.
 
